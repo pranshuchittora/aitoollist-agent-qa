@@ -92,10 +92,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 
 ## Productivity
 
-- [Agent QA](https://vostride.com/docs/agent-qa) - AI-assisted web, Android and iOS testing from YAML suites with natural-language steps, using a CLI or local dashboard.
+- [agent-qa](https://vostride.com) - Web and mobile QA for coding agents, with reusable tests through a CLI, dashboard and MCP server.
   - **Tags**: `Free` `AI` `Testing` `YAML` `MCP` `Development`
-  - **Pricing**: Software currently free (FSL-1.1-ALv2); configured model, browser and device services may charge separately.
-  - **Feature**: Author, validate, run and triage tests through a local MCP server.
+  - **Pricing**: Free package (FSL-1.1-ALv2); model/API and external-service costs may apply.
+  - **Feature**: Advanced memidex memory retains validated application knowledge, with evidence-gated self-improvement.
 
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
   - **Tags**: `Voice Notes` `Transcriber` `Fun tools`
